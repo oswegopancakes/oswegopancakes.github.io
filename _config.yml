@@ -4,7 +4,7 @@ email: oswegokiwanis@gmail.com
 url: https://oswegopancakes.com
 description: "Oswego Kiwanis Pancake Breakfast Information Website"
 keywords: "Oswego, Kiwanis, Pancake, Pancakes, Breakfast"
-skills: "Come join the Oswego Kiwanis on DATE to Support a Great Cause & Enjoy Some Pancakes!"
+skills: "Come join the Oswego Kiwanis on 2/29/2020 to Support a Great Cause & Enjoy Some Pancakes!"
 meta_author: Kiwanis Oswego
 
 # Google webmaster tools
@@ -43,6 +43,8 @@ social:
  #   url: http://twitter.com/jekyllrb
   - title: facebook
     url: https://www.facebook.com/oswegokiwanis/
+  - title: external-link
+    url: https://oswegokiwanis.portalbuzz.com/
  # - title: stack-overflow
  #   url: http://stackoverflow.com/questions/tagged/jekyll
  # - title: bitbucket
