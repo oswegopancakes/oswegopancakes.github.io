@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-date: 2020-01-02
+date: 2020-01-03
 img: novy.jpg
 alt: Karen Novy - Candidate for Kendall County Board District 2
 client: Karen Novy - Kendall County Board District 2 Candidate

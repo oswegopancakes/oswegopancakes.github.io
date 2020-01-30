@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 6
-date: 2020-01-04
+date: 2020-01-06
 img: baird.jpg
 alt: Kendall County Sheriff - Dwight Baird
 client: Dwight Baird - Kendall County Sheriff
