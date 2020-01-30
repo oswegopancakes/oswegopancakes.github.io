@@ -5,6 +5,6 @@ date: 2020-01-07
 img: meijer.png
 alt: Meijer
 client: Meijer
-category: IT
+category: Grocery
 description: Oswego Kiwanis is proud to have Meijer as a Sponsor!
 ---
