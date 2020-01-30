@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2020-01-01
 img: yackley.png
 alt: United Reality - Mellissa Yackley
 client: Melissa Yackley - United Realty
